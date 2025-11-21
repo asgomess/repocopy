@@ -1,0 +1,44 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-title {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.time {
+    color: grey;
+}
+
+.avatar {
+    max-height: 200px;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 0 5px #fff;
+}
+
+.row {
+    max-width: 970px;
+}
+
+.row.well {
+    margin: 20px;
+}
+
+hr {
+    margin: 0 20px;
+}
+
+.list-group-item {
+    background-color: inherit;
+}
+
+.summary {
+    max-width: 20em;
+    margin-bottom: 20px;
+}
+
+.progress {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
